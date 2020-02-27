@@ -1,4 +1,4 @@
-# Italy-map-with-plotly
+# Italy map with Plotly and Python
 During a project of mine I faced the need to display geograpical information of persons in a dataset. Thus I decided to create a map of regions in Italy emphasizing regions with a grater population (relatively to my dataset).
 
 Looking Plotly APIs for maps seems quite easy to do for USA, all information are provided. But I faced some issues while creating the map of Italy. Some information were missing.
